@@ -24,4 +24,7 @@ class ClasseB:
   def MB2(self):
     print("Você está no método MB2")
 
+  def MB3(self):
+    print("Você está no método MB3")
+
   

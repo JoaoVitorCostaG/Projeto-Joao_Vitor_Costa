@@ -12,4 +12,7 @@
   def MC2(self):
     print("Você está no método MC2")
 
+  def MC3(self):
+    print("Você está no método MC3")
+
   

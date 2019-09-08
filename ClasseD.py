@@ -1,18 +1,19 @@
-﻿class ClasseC:
-  c1 = ''
-  c2 = ''
+﻿class ClasseD:
+  d1 = ''
+  d2 = ''
   
-  def __init__ (self, c1p, c2p):
-    self.c1 = string (c1p)
-    self.c2 = int (c2p)
+  def __init__ (self, d1p, d2p):
+    self.d1 = string (d1p)
+    self.d2 = int (d2p)
   
-  def MC1(self):
-    print("Você está no método MC1")
+  def MD1(self):
+    print("Você está no método MD1")
     
-  def MC2(self):
-    print("Você está no método MC2")
+  def MD2(self):
+    print("Você está no método MD2")
 
-  def MC3(self):
-    print("Você está no método MC3")
-
+  def MD3(self):
+    print("Você está no método MD3")
   
+  def MD4(self):
+    print("Você está no método MD4")

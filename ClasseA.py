@@ -23,3 +23,6 @@ class ClasseA:
     
   def MA2(self):
     print("Você está no método MA2")
+
+  def MA3(self):
+    print("Alteração a classe A partir do clone")

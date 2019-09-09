@@ -3,7 +3,7 @@ class ClasseD:
   d2 = ''
   
   def __init__ (self, d1p, d2p):
-    self.d1 = float (d1p)
+    self.d1 = string (d1p)
     self.d2 = int (d2p)
   
   def MD1(self):
@@ -15,3 +15,5 @@ class ClasseD:
   def MD3(self):
   	print("Você está no método MD3")
   
+  def MD4(self):
+    print("Você está no método MD4")
